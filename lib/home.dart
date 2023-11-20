@@ -96,7 +96,7 @@ class HomePageState extends StatelessWidget {
                 child: CircleAvatar(
                   radius: 80.0,
                   backgroundColor:
-                      Colors.white, // You can set a specific color here
+                      Colors.white, 
                   backgroundImage: NetworkImage(imageUrl),
                 ),
               ),
